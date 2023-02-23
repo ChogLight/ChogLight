@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChogLight
 - 👀 I’m interested in Web Development (Full-Stack MERN)
-- 🌱 I’m currently learning React, Express, Flask
+- 🌱 I’m currently learning React, Express, SvelteKit
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me : sebas8812@gmail.com
 
