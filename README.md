@@ -7,5 +7,8 @@
   <a href="https://sebastian-galvis.netlify.app/">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Website badge"/>
   </a>
+  <a href="sebas8812@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website badge"/>
+  </a>
 </div>
 </div>
