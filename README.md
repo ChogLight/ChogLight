@@ -50,3 +50,6 @@ I'm a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   
 </div>
 
+### :fire: My Stats: 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=choglight&theme=dark&background=000000)](https://git.io/streak-stats)
+
